@@ -21,3 +21,6 @@ Our goal in this module is a ready-to-use server with basic security configurati
 - [15 ways to secure and harden your Linux VPS](https://krystal.io/blog/post/securing-and-hardening-your-vps): A basic guide to secure your Linux VPS. Just some keywords for you to search
 - [How to secure a VPS](https://help.ovhcloud.com/csm/asia-vps-security-tips?id=kb_article_view&sysparm_article=KB0047695): An useful guide with detailed steps that implement some of the best practices.
 - [AKcryptoGUY's Awesome Server Hardening Script](https://github.com/akcryptoguy/vps-harden): An all-in-one convenient script to secure your VPS. But you really need to understand about all stuffs in that script before running. Quite old (tested on ubuntu <= 20), but it's still very useful.
+
+## QNA
+Q: I have a Raspi4 with extened SSD kitboard (2Tb), can I use it as a server? 
